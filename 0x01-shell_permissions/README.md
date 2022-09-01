@@ -1,1 +1,1 @@
-switch current user to user betty
+prints username of current user

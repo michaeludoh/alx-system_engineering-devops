@@ -1,1 +1,1 @@
-changing of file ownership
+Add execute permission to file owner

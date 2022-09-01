@@ -1,1 +1,1 @@
-multiple permissions
+Giving everybody permissions

@@ -1,1 +1,1 @@
-ownership execute permission
+multiple permissions

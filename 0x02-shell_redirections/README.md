@@ -1,1 +1,1 @@
-standard output
+confused smiley display
